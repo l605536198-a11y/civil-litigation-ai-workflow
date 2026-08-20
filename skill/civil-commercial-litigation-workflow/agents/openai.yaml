@@ -1,0 +1,5 @@
+interface:
+  display_name: "民商事案件工作管理平台"
+  short_description: "诉前分析、诉讼文书、结案归档与内容复盘一体化管理"
+  default_prompt: "Use $civil-commercial-litigation-workflow to run the 民商事案件工作管理平台 for this case."
+
