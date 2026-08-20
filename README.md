@@ -32,7 +32,7 @@ C:\Users\你的用户名\.codex\skills\
 请使用 $civil-commercial-litigation-workflow 建立一个新案件工作区。
 ```
 
-详细步骤见 [详细使用说明](docs/详细使用说明.md)。
+详细步骤见 [工作流详细说明](docs/工作流详细说明.md)。
 
 ## 安全边界
 
@@ -45,3 +45,4 @@ C:\Users\你的用户名\.codex\skills\
 ## 免责声明
 
 本项目仅用于律师执业辅助和法律科技研究，不构成法律意见，也不替代承办律师的专业判断。
+
